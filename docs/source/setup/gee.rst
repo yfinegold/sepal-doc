@@ -22,9 +22,9 @@ Create a GEE account
 Sign-up
 ^^^^^^^
 
-Signing up for Google Earth Engine is required in order to properly export images and data products from SEPAL. You will need to have a Google Account in order to sign up. If you don't have one already, you can set one up here: https://accounts.google.com/servicelogin. 
+Signing up for Google Earth Engine is required in order to properly export images and data products from SEPAL. You will need to have an email address that is connected to Google Earth Engine. 
 
-To request a GEE account, please visit https://earthengine.google.com/new_signup/.
+To request a GEE account, please visit https://signup.earthengine.google.com/#!/
 
 .. image:: ../img/setup/register/gee_landing.png
    :alt: Request access to google earth engine
